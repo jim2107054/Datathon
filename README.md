@@ -37,6 +37,3 @@ This is just the beginning! We're looking forward to:
 - Sharpening our skills and tackling new challenges.
 - Achieving even greater milestones in the data science field.
   
-
----
-*Keep dreaming big, learning constantly, and celebrating every step of the journey!* ✨
