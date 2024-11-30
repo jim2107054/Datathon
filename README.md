@@ -24,11 +24,7 @@ From late-night brainstorming sessions to diving deep into datasets, this compet
 
 - **MD. Jahid Hasan Jim**
 - **Md. Nayeem**  
-- **Shakhoyat Shujon**   
-
-## Gratitude ❤️
-
-We extend our heartfelt thanks to the organizers of **SynergyX2024** for providing such a fantastic platform and to our fellow competitors for making the event so inspiring and memorable.  
+- **Shakhoyat Shujon**     
 
 ## What's Next? 🚀
 
